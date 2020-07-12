@@ -1,3 +1,3 @@
 # git
-chumma
-useless for 
+sample project 
+
